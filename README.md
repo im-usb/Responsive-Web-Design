@@ -1,4 +1,3 @@
-<h1>Responsive-Web-Design</h1>
 <ul>
   <li>
     <p>Project1: <a href="https://im-usb.github.io/Responsive-Web-Design/cat-photo-app/" target="_blank"> Cat Photo App</a></p>
