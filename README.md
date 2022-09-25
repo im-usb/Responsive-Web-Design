@@ -6,4 +6,7 @@
   <li>
     <p>Project2: <a href="https://im-usb.github.io/Responsive-Web-Design/camper-coffee/" target="_blank"> Camper Coffee</a></p>
   </li>
+  <li>
+    <p>Project3: <a href="https://im-usb.github.io/Responsive-Web-Design/registration-form/" target="_blank"> Registration Form</a></p>
+  </li>
 </ul>
