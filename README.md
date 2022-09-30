@@ -11,4 +11,7 @@
   <li>
     <p>Project4: <a href="https://im-usb.github.io/Responsive-Web-Design/survey-form/" target="_blank"> Survey Form</a></p>
   </li>
+  <li>
+    <p>Project5: <a href="https://im-usb.github.io/Responsive-Web-Design/personal-site/" target="_blank"> Personal Site</a></p>
+  </li>
 </ul>
